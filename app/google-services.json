@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614230081348",
+    "firebase_url": "https://vitalium-e32f7-default-rtdb.firebaseio.com",
+    "project_id": "vitalium-e32f7",
+    "storage_bucket": "vitalium-e32f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614230081348:android:792c3dfac5436a18ec6111",
+        "android_client_info": {
+          "package_name": "com.example.vitalium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArP9yY_uWvq8PnfqCM9HezhenC7m1FbMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
